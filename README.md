@@ -11,6 +11,10 @@ This library provides process hollowing capabilities using the Early Bird inject
 - Queues an APC to execute the shellcode
 - Resumes the target process
 
+##### Note
+
+This version does not use dynamic resolution of APIs or other OPSEC safe considerations. I'll push a more OPSEC safe version in the future on the 'opsec' branch. Usually about 1 month after initial repo release.
+
 ##### Usage
 
 Add this to your `Cargo.toml`:
