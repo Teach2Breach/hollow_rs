@@ -30,4 +30,4 @@ wrapper("notepad.exe", &SHELL_CODE);
 
 ##### Video of creating this PoC
 
-will add when its live
+[watch on X](https://x.com/Teach2Breach/status/1887594765165752772)
