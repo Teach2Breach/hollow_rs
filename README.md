@@ -1,6 +1,6 @@
 #### Process Hollowing in Rust
 
-A Rust PoC implementation of the Early Bird process hollowing technique, inspired by [@boku7/HOLLOW](https://github.com/boku7/HOLLOW). This version reimplements the core functionality in safe Rust while maintaining direct Windows API interactions through the `winapi` crate.
+A Rust PoC implementation of the Early Bird process hollowing technique, inspired by [@boku7/HOLLOW](https://github.com/boku7/HOLLOW). This version reimplements the core functionality in Rust while maintaining direct Windows API interactions through the `winapi` crate.
 
 ##### Overview
 
